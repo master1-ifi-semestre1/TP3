@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca82283d-31fe-4238-9460-aebe82749ed3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/MonoDynList.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/MonoDynList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$A.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$A.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$B.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$B.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$C.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$C.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/grace/bk/util/MonoMultiList.java" afterPath="$PROJECT_DIR$/src/grace/bk/util/MonoMultiList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/grace/bk/util/test/MonoMultiListTest.java" afterPath="$PROJECT_DIR$/src/grace/bk/util/test/MonoMultiListTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,14 +17,15 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="MonoDynListTest.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java">
+        <leaf>
+          <file leaf-file-name="MonoMultiList.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/grace/bk/util/MonoMultiList.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+                <state relative-caret-position="354">
+                  <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="36" />
                   <folding>
-                    <element signature="imports" expanded="true" />
+                    <element signature="e#889#890#0" expanded="true" />
+                    <element signature="e#913#914#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -36,12 +35,14 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="MonoDynList.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java">
+          <file leaf-file-name="MonoMultiListTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/grace/bk/util/test/MonoMultiListTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="309">
-                  <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-                  <folding />
+                <state relative-caret-position="436">
+                  <caret line="52" column="64" lean-forward="false" selection-start-line="52" selection-start-column="64" selection-end-line="52" selection-end-column="64" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -49,6 +50,14 @@
         </leaf>
       </split-second>
     </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>�</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>e</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,18 +70,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/grace/bk/util/MonoMultiList.java" />
-        <option value="$PROJECT_DIR$/src/grace/bk/util/test/MonoMultiListTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java" />
         <option value="$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java" />
+        <option value="$PROJECT_DIR$/src/grace/bk/util/test/MonoMultiListTest.java" />
+        <option value="$PROJECT_DIR$/src/grace/bk/util/MonoMultiList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="191" />
+    <option name="x" value="125" />
     <option name="y" value="22" />
-    <option name="width" value="1648" />
+    <option name="width" value="1415" />
     <option name="height" value="1028" />
   </component>
   <component name="ProjectView">
@@ -145,23 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MonoDynListTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="grace.bk.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="TP3" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
+  <component name="RunManager" selected="JUnit.MonoMultiListTest">
     <configuration name="MonoDynListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -187,7 +180,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MonoDynListTest.testAdd_NOK_down" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MonoMultiListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="grace.bk.util.test.*" />
@@ -198,59 +191,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="grace.bk.util.test" />
-      <option name="MAIN_CLASS_NAME" value="grace.bk.util.test.MonoDynListTest" />
-      <option name="METHOD_NAME" value="testAdd_NOK_down" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="MonoDynListTest.testAdd_NOK_up" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="grace.bk.util.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TP3" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="grace.bk.util.test" />
-      <option name="MAIN_CLASS_NAME" value="grace.bk.util.test.MonoDynListTest" />
-      <option name="METHOD_NAME" value="testAdd_NOK_up" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="MonoDynListTest.testAdd_OK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="grace.bk.util.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TP3" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="grace.bk.util.test" />
-      <option name="MAIN_CLASS_NAME" value="grace.bk.util.test.MonoDynListTest" />
-      <option name="METHOD_NAME" value="testAdd_OK" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="grace.bk.util.test.MonoMultiListTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -277,19 +220,14 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MonoDynListTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MonoDynListTest.testAdd_NOK_up" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MonoDynListTest.testAdd_OK" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MonoDynListTest.testAdd_NOK_down" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MonoDynListTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MonoMultiListTest" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MonoDynListTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MonoDynListTest.testAdd_NOK_down" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MonoDynListTest.testAdd_NOK_up" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MonoDynListTest.testAdd_OK" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MonoMultiListTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MonoDynListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -307,35 +245,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MonoDynListTest - 2017.10.23 at 10h 52m 25s.xml">
-      <configuration name="MonoDynListTest" configurationId="JUnit" />
+    <history-entry file="MonoMultiListTest - 2017.10.23 at 11h 46m 06s.xml">
+      <configuration name="MonoMultiListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MonoDynListTest - 2017.10.23 at 10h 56m 31s.xml">
-      <configuration name="MonoDynListTest" configurationId="JUnit" />
+    <history-entry file="MonoMultiListTest - 2017.10.23 at 11h 46m 13s.xml">
+      <configuration name="MonoMultiListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MonoDynListTest - 2017.10.23 at 10h 56m 53s.xml">
-      <configuration name="MonoDynListTest" configurationId="JUnit" />
+    <history-entry file="MonoMultiListTest - 2017.10.23 at 11h 46m 23s.xml">
+      <configuration name="MonoMultiListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MonoDynListTest - 2017.10.23 at 10h 57m 19s.xml">
-      <configuration name="MonoDynListTest" configurationId="JUnit" />
+    <history-entry file="MonoMultiListTest - 2017.10.23 at 11h 48m 10s.xml">
+      <configuration name="MonoMultiListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MonoDynListTest_testAdd_NOK_down - 2017.10.23 at 10h 49m 32s.xml">
-      <configuration name="MonoDynListTest.testAdd_NOK_down" configurationId="JUnit" />
+    <history-entry file="MonoMultiListTest - 2017.10.23 at 11h 48m 20s.xml">
+      <configuration name="MonoMultiListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MonoDynListTest_testAdd_NOK_down - 2017.10.23 at 10h 50m 44s.xml">
-      <configuration name="MonoDynListTest.testAdd_NOK_down" configurationId="JUnit" />
+    <history-entry file="MonoMultiListTest - 2017.10.23 at 11h 48m 24s.xml">
+      <configuration name="MonoMultiListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MonoDynListTest_testAdd_NOK_down - 2017.10.23 at 10h 50m 54s.xml">
-      <configuration name="MonoDynListTest.testAdd_NOK_down" configurationId="JUnit" />
+    <history-entry file="MonoMultiListTest - 2017.10.23 at 11h 48m 38s.xml">
+      <configuration name="MonoMultiListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MonoDynListTest_testAdd_NOK_down - 2017.10.23 at 10h 51m 22s.xml">
-      <configuration name="MonoDynListTest.testAdd_NOK_down" configurationId="JUnit" />
+    <history-entry file="MonoMultiListTest - 2017.10.23 at 11h 49m 15s.xml">
+      <configuration name="MonoMultiListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MonoDynListTest_testAdd_NOK_up - 2017.10.23 at 10h 49m 23s.xml">
-      <configuration name="MonoDynListTest.testAdd_NOK_up" configurationId="JUnit" />
+    <history-entry file="MonoMultiListTest_testAddMulti_OK_down - 2017.10.23 at 11h 30m 13s.xml">
+      <configuration name="MonoMultiListTest.testAddMulti_OK_down" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MonoDynListTest_testAdd_NOK_up - 2017.10.23 at 10h 51m 09s.xml">
-      <configuration name="MonoDynListTest.testAdd_NOK_up" configurationId="JUnit" />
+    <history-entry file="MonoMultiListTest_testAddMulti_OK_eq - 2017.10.23 at 11h 30m 08s.xml">
+      <configuration name="MonoMultiListTest.testAddMulti_OK_eq" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -348,11 +286,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="191" y="22" width="1648" height="1028" extended-state="0" />
+    <frame x="125" y="22" width="1415" height="1028" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -363,7 +302,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13636364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13636364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -397,24 +336,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/grace/bk/util/test/MonoMultiListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/grace/bk/util/MonoMultiList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/grace/bk/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -423,18 +344,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grace/bk/util/MonoMultiList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="36" />
+          <folding>
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grace/bk/util/test/MonoMultiListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="52" column="64" lean-forward="false" selection-start-line="52" selection-start-column="64" selection-end-line="52" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

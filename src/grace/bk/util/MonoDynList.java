@@ -30,12 +30,12 @@ public class MonoDynList extends ArrayList<Object> {
 	public boolean add(Object t) {
 		// TODO v�rifier la coh�rence avec la classe prototype
 		// TODO ne pas oublier de g�rer le bool�en (vrai si l'ajout s'est bien fait)
-        if (getProtoClass() == t.getClass()) {
+        /*if (getProtoClass() == t.getClass()) {
             return super.add(t);
         } else {
             return false;
-        }
-		// return true;
+        }*/
+        return getProtoClass() == t.getClass() && super.add(t);
 	}
 
 }

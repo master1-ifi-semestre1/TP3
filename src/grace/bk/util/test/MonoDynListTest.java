@@ -5,6 +5,7 @@ import org.junit.Test;
 
 import grace.bk.util.MonoDynList;
 
+import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 public class MonoDynListTest {
@@ -29,14 +30,14 @@ public class MonoDynListTest {
 	public void testAdd_NOK_up() {
 		// TODO
 		// assertFalse("ajout d'un A dans une liste monomorphe de B", ??? );
-        assertTrue(mdl.add(new A()));
+        assertFalse(mdl.add(new A()));
 	}
 
 	@Test
 	public void testAdd_NOK_down() {
 		// TODO
 		// assertFalse("ajout d'un C dans une liste monomorphe de B", ??? );
-        assertTrue(mdl.add(new C()));
+        assertFalse(mdl.add(new C()));
 	}
 
 	class A {

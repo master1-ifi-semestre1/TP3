@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca82283d-31fe-4238-9460-aebe82749ed3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/MonoDynList.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/MonoDynList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$A.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$B.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$C.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$C.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java" afterPath="$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java" afterPath="$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java" />
@@ -21,8 +26,8 @@
           <file leaf-file-name="MonoDynListTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="444">
-                  <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+                <state relative-caret-position="204">
+                  <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -37,8 +42,8 @@
           <file leaf-file-name="MonoDynList.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="369">
-                  <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+                <state relative-caret-position="309">
+                  <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -62,8 +67,8 @@
         <option value="$PROJECT_DIR$/src/grace/bk/util/MonoMultiList.java" />
         <option value="$PROJECT_DIR$/src/grace/bk/util/test/MonoMultiListTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java" />
         <option value="$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java" />
+        <option value="$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java" />
       </list>
     </option>
   </component>
@@ -308,6 +313,15 @@
     <history-entry file="MonoDynListTest - 2017.10.23 at 10h 52m 25s.xml">
       <configuration name="MonoDynListTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MonoDynListTest - 2017.10.23 at 10h 56m 31s.xml">
+      <configuration name="MonoDynListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MonoDynListTest - 2017.10.23 at 10h 56m 53s.xml">
+      <configuration name="MonoDynListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MonoDynListTest - 2017.10.23 at 10h 57m 19s.xml">
+      <configuration name="MonoDynListTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="MonoDynListTest_testAdd_NOK_down - 2017.10.23 at 10h 49m 32s.xml">
       <configuration name="MonoDynListTest.testAdd_NOK_down" configurationId="JUnit" />
     </history-entry>
@@ -320,20 +334,11 @@
     <history-entry file="MonoDynListTest_testAdd_NOK_down - 2017.10.23 at 10h 51m 22s.xml">
       <configuration name="MonoDynListTest.testAdd_NOK_down" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MonoDynListTest_testAdd_NOK_up - 2017.10.23 at 10h 48m 13s.xml">
-      <configuration name="MonoDynListTest.testAdd_NOK_up" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MonoDynListTest_testAdd_NOK_up - 2017.10.23 at 10h 49m 00s.xml">
-      <configuration name="MonoDynListTest.testAdd_NOK_up" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MonoDynListTest_testAdd_NOK_up - 2017.10.23 at 10h 49m 23s.xml">
       <configuration name="MonoDynListTest.testAdd_NOK_up" configurationId="JUnit" />
     </history-entry>
     <history-entry file="MonoDynListTest_testAdd_NOK_up - 2017.10.23 at 10h 51m 09s.xml">
       <configuration name="MonoDynListTest.testAdd_NOK_up" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MonoDynListTest_testAdd_OK - 2017.10.23 at 10h 49m 18s.xml">
-      <configuration name="MonoDynListTest.testAdd_OK" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -347,7 +352,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="191" y="22" width="1648" height="1028" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -362,7 +366,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13636364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13636364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -424,16 +428,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        <state relative-caret-position="309">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        <state relative-caret-position="204">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

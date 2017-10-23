@@ -7,9 +7,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$B.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$B.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$C.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest$C.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest.class" afterPath="$PROJECT_DIR$/out/production/TP3/grace/bk/util/test/MonoDynListTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java" afterPath="$PROJECT_DIR$/src/grace/bk/util/MonoDynList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java" afterPath="$PROJECT_DIR$/src/grace/bk/util/test/MonoDynListTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

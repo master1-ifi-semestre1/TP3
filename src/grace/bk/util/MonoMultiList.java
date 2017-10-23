@@ -1,4 +1,4 @@
-package util;
+package grace.bk.util;
 
 import java.util.ArrayList;
 
@@ -7,10 +7,10 @@ public class MonoMultiList<T> extends ArrayList<T> {
 	protected Class<?> protoClass = null; // Classe du prototype
 	protected boolean isMono; // isMono est vrai si la liste est monomorphe
 
-	public MonoMultiList(T proto) { // Le prototype est fixé à la création, mais uniquement
-		// par une instance, car sinon, on ne pourrait pas vérifier que le type passé en 
-		// paramètre est un sous-type de T (impossibilité de Java 5 car T disparait à la
-		// compilation par nécessité de compatibilité)
+	public MonoMultiList(T proto) { // Le prototype est fixï¿½ ï¿½ la crï¿½ation, mais uniquement
+		// par une instance, car sinon, on ne pourrait pas vï¿½rifier que le type passï¿½ en 
+		// paramï¿½tre est un sous-type de T (impossibilitï¿½ de Java 5 car T disparait ï¿½ la
+		// compilation par nï¿½cessitï¿½ de compatibilitï¿½)
 		super();
         // TODO placer l'objet dans la liste et s'en servir comme prototype		
 		isMono = true;  // liste monomorphe stricte
@@ -26,8 +26,8 @@ public class MonoMultiList<T> extends ArrayList<T> {
 	}
 	
 	public boolean add(T t) {
-		// TODO si on est mode Monomorphe, vérifier la cohérence avec la classe prototype
-		// TODO ne pas oublier de gérer le booléen (vrai si l'ajout s'est bien fait)
+		// TODO si on est mode Monomorphe, vï¿½rifier la cohï¿½rence avec la classe prototype
+		// TODO ne pas oublier de gï¿½rer le boolï¿½en (vrai si l'ajout s'est bien fait)
 		return true;
 	}
 	

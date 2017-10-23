@@ -1,4 +1,4 @@
-package util;
+package grace.bk.util;
 
 import java.util.ArrayList;
 
@@ -23,8 +23,8 @@ public class MonoDynList extends ArrayList<Object> {
 	}
 	
 	public boolean add(Object t) {
-		// TODO vérifier la cohérence avec la classe prototype
-		// TODO ne pas oublier de gérer le booléen (vrai si l'ajout s'est bien fait)
+		// TODO vï¿½rifier la cohï¿½rence avec la classe prototype
+		// TODO ne pas oublier de gï¿½rer le boolï¿½en (vrai si l'ajout s'est bien fait)
 		return true;
 	}
 

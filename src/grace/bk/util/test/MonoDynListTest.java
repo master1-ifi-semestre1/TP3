@@ -1,9 +1,9 @@
-package util.test;
+package grace.bk.util.test;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import util.MonoDynList;
+import grace.bk.util.MonoDynList;
 
 public class MonoDynListTest {
 
@@ -11,7 +11,7 @@ public class MonoDynListTest {
 	
 	@Before
 	public void setUp() throws Exception {
-		// TODO crŽer une liste de B
+		// TODO crï¿½er une liste de B
 	}
 
 	@Test

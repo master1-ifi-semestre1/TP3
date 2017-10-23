@@ -1,9 +1,9 @@
-package util.test;
+package grace.bk.util.test;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import util.MonoMultiList;
+import grace.bk.util.MonoMultiList;
 
 public class MonoMultiListTest {
 
@@ -12,8 +12,8 @@ public class MonoMultiListTest {
 	
 	@Before
 	public void setUp() throws Exception {
-		monol = new MonoMultiList<A>(new B()); // gŽnŽricitŽ statique <A> (monomorphe sur B) 
-		multil = new MonoMultiList<B>(); // gŽnŽricitŽ statique <B> (polymorphisme)
+		monol = new MonoMultiList<A>(new B()); // gï¿½nï¿½ricitï¿½ statique <A> (monomorphe sur B) 
+		multil = new MonoMultiList<B>(); // gï¿½nï¿½ricitï¿½ statique <B> (polymorphisme)
 	}
 
 	@Test
